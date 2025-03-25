@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🔭 I’m currently working as Automobile Engineer
+- - 🌱 I’m currently learning a Data Science and Business Analyst profile with tools like MySQL , Python , Web development
+  - - 👯 I’m looking to collaborate on new projects to kick off my career
+    - - 🤔 I’m looking for help to search for projects to work-on and start a new journey.
+      - - 💬 Ask me about my eperiences I gain during my tenure in manufacturing/automotive domain
+        - - 📫 How to reach me: Reachout to me mail id : rohittt.malhotra@mail.com or Contact number : 8076202044
+
 
 <!--
 **rohitmalhotra7/rohitmalhotra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
