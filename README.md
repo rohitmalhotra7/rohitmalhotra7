@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working as Automobile Engineer
+- 🔭 I’m currently working as an Automobile Engineer
 - - 🌱 I’m currently learning a Data Science and Business Analyst profile with tools like MySQL , Python , Web development
   - - 👯 I’m looking to collaborate on new projects to kick off my career
     - - 🤔 I’m looking for help to search for projects to work-on and start a new journey.
